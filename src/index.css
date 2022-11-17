@@ -1,0 +1,8 @@
+body {
+    padding: 20px;
+    margin: 0;
+    color:#f00;
+}
+#app{color:#58bc58;}
+
+#app{display:flex;color:#58bc58;border-radius: 5px;}
